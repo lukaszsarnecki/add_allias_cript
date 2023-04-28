@@ -1,2 +1,2 @@
 # add_allias_script
-Skrypt dzięki któremu móżna dodawać alliasy bez kończeności edycji pliku .bashrc, zshrc .fishrc
+Skrypt dzięki któremu można dodać aliasy do pliku config.fish w powłoce fish
